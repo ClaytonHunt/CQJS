@@ -1,2 +1,2 @@
 # CQJS
-Command Query JavaScript - A Framework concept to make Applications simple to build
+Command Query JavaScript - A Framework concept to make applications simple to build
